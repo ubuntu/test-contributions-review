@@ -2,7 +2,7 @@
 # GTK launcher specific part #
 ##############################
 
-# select gtk version
+# select gtk version with another change
 . $SNAP/flavor-select
 
 # Gdk-pixbuf loaders
